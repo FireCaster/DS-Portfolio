@@ -7,7 +7,7 @@ Data Science портфолио проектов
 - Catboost
 - Type: Classification
 ---
-### [Поиск изображений по запросу](https://github.com/FireCaster/DS-Portfolio/tree/main/Pet-projects/%D0%9F%D0%BE%D0%B8%D1%81%D0%BA_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9_%D0%BF%D0%BE_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%83)
+### [Поиск изображений по текстовому запросу](https://github.com/FireCaster/DS-Portfolio/tree/main/Pet-projects/%D0%9F%D0%BE%D0%B8%D1%81%D0%BA_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9_%D0%BF%D0%BE_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%83)
 - transformers, BERT
 - ResNet
 - LinearRegression
